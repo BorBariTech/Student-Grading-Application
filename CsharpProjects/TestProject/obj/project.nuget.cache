@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BGUAeaZDhZs=",
+  "dgSpecHash": "KQnvy24nhRQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\gogob\\Student-Grading-Application\\CsharpProjects\\TestProject\\TestProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gogob\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\gogob\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\gogob\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\gogob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
